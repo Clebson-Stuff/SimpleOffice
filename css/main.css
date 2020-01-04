@@ -1,0 +1,36 @@
+.HomeBackground{
+    width: 100%;
+    height: 100vh;
+    background-image: url("../img/capa2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+nav{
+    position: absolute;
+}
+#title{
+    width: 50vh;
+    height: 20vh;
+    background: rgb(0, 0, 0, 0.8);
+    float:right;
+    margin-top: 15%;
+    margin-right: 10%;
+    padding: 3%;
+}
+#title h2,h4{
+    text-align: center;
+    color: #ffffff;
+} 
+h2{
+    font-size: 6vh;
+    margin-bottom: 2vh;
+}
+h4{
+    font-size: 3vh;
+}
+#HomeContent{
+    background: rgb(235,235, 235, 0.8);
+    margin-top: 80vh;
+    height: 20vh;
+    /*float: left;*/
+}
